@@ -1,0 +1,24 @@
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities{
+    @variants responsive{
+        .hero{
+            background-image:url('./images/hero.jpg')
+        }
+        .herowide{
+            background-image:url('./images/herowide.jpg')
+        }
+        .bgBottomCenter{
+            background-position: bottom center;
+        }
+        .minWXs{
+            min-width: 244px;
+        }
+        .h60vh{
+            min-height: 40vh;
+        }
+    }
+}
