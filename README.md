@@ -1,4 +1,4 @@
-###This site is deployed here>>>  [https://instacart-clone.netlify.app/](instacart-clone.netlify.app).
+###This site is deployed here>>>  [instacart-clone.netlify.app](https://instacart-clone.netlify.app).
 ## Available Scripts
 
 In the project directory, you can run:
